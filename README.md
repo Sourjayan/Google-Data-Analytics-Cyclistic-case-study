@@ -73,6 +73,7 @@ The analysis question is: How do annual members and casual riders use Cyclistic 
 
 The number of trips distributed by the months, days of the week and hours of the day are examined.
 
+![Dashboard 1](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/assets/145615524/6f73b9f4-05ac-4758-9d08-0ad8c53e6595)
 
 **Months**: When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter. The gap between casuals and members is closest in the month of july in summmer.
 
@@ -84,6 +85,8 @@ We can infer from the previous observations that member may be using bikes for c
 
 
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.
+
+![Dashboard 2](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/assets/145615524/33c51126-0e9a-43ec-96ec-71bd14990043)
 
 
 Take note that casual riders tend to cycle longer than members do on average. The length of the average journey for members doesn't change throughout the year, week, or day. However, there are variations in how long casual riders cycle. In the spring and summer, on weekends, and from 10 am to 2 pm during the day, they travel greater distances. Between five and eight in the morning, they have brief trips.
