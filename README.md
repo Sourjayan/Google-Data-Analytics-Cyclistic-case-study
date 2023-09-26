@@ -84,6 +84,7 @@ The number of trips distributed by the months, days of the week and hours of the
 We can infer from the previous observations that member may be using bikes for commuting to and from the work in the week days while casual riders are using bikes throughout the day, more frequently over the weekends for leisure purposes. Both are most active in summer and spring.
 
 
+
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.
 
 ![Dashboard 2](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/assets/145615524/33c51126-0e9a-43ec-96ec-71bd14990043)
