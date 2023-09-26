@@ -75,7 +75,7 @@ The number of trips distributed by the months, days of the week and hours of the
 
 ![Dashboard 1](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/assets/145615524/6f73b9f4-05ac-4758-9d08-0ad8c53e6595)
 
-**Months**: When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter. The gap between casuals and members is closest in the month of july in summmer.
+**Months**: When it comes to monthly trips, both casual and members exhibit comparable behavior, with more trips in the spring and summer and fewer in the winter.
 
 **Days of Week**: When the days of the week are compared, it is discovered that casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week.
 
@@ -92,7 +92,7 @@ Ride duration of the trips are compared to find the differences in the behavior 
 
 Take note that casual riders tend to cycle longer than members do on average. The length of the average journey for members doesn't change throughout the year, week, or day. However, there are variations in how long casual riders cycle. In the spring and summer, on weekends, and from 10 am to 2 pm during the day, they travel greater distances. Between five and eight in the morning, they have brief trips.
 
-These findings lead to the conclusion that casual commuters travel longer (approximately 2x more) but less frequently than members. They make longer journeys on weekends and during the day outside of commuting hours and in spring and summer season, so they might be doing so for recreation purposes.
+These findings lead to the conclusion that casual commuters travel longer but less frequently than members. They make longer journeys on weekends and during the day outside of commuting hours and in spring and summer season, so they might be doing so for recreation purposes.
 
 **Summary**:
 
