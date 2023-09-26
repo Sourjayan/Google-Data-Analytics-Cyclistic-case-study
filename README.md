@@ -49,11 +49,11 @@ Reason:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
 
 ### Combining the Data
-SQL Query: Combining data and Cleaned combined data
+SQL Query: [Combining data](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/blob/main/1.%20Combining%20data.sql)
 The csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing all the rows of the months in the quater.
 
 ### Cleaning the Data
-SQL Query: Cleaning data
+SQL Query: [Cleaning data](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/blob/main/2.%20Cleaning%20data.sql) and [Cleaned Combined data](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/blob/main/3.%20Cleaned%20Combined%20data.sql)
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 The table is craeted showing all column names and their data types. The ride_id column is our primary key.
 All the rows having missing values are deleted.
@@ -62,8 +62,8 @@ All the irrelevant rows and columns rows are removed in this step.
 
 
 ## Analyze and Share
-SQL Query: Analysing data
-Data Visualization: Tableau
+SQL Query: [Analysing data](https://github.com/Sourjayan/Google-Data-Analytics-Cyclistic-case-study/blob/main/4.%20Analysing%20data.sql)
+Data Visualization: [Tableau](https://public.tableau.com/views/googlecasestudy_16946242358980/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
